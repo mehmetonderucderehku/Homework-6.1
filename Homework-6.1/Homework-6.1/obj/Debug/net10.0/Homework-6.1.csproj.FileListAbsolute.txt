@@ -1,0 +1,15 @@
+C:\Users\monde\source\repos\Homework-6.1\Homework-6.1\bin\Debug\net10.0\Homework-6.1.exe
+C:\Users\monde\source\repos\Homework-6.1\Homework-6.1\bin\Debug\net10.0\Homework-6.1.deps.json
+C:\Users\monde\source\repos\Homework-6.1\Homework-6.1\bin\Debug\net10.0\Homework-6.1.runtimeconfig.json
+C:\Users\monde\source\repos\Homework-6.1\Homework-6.1\bin\Debug\net10.0\Homework-6.1.dll
+C:\Users\monde\source\repos\Homework-6.1\Homework-6.1\bin\Debug\net10.0\Homework-6.1.pdb
+C:\Users\monde\source\repos\Homework-6.1\Homework-6.1\obj\Debug\net10.0\Homework-6.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monde\source\repos\Homework-6.1\Homework-6.1\obj\Debug\net10.0\Homework-6.1.AssemblyInfoInputs.cache
+C:\Users\monde\source\repos\Homework-6.1\Homework-6.1\obj\Debug\net10.0\Homework-6.1.AssemblyInfo.cs
+C:\Users\monde\source\repos\Homework-6.1\Homework-6.1\obj\Debug\net10.0\Homework-6.1.csproj.CoreCompileInputs.cache
+C:\Users\monde\source\repos\Homework-6.1\Homework-6.1\obj\Debug\net10.0\Homework-6.1.dll
+C:\Users\monde\source\repos\Homework-6.1\Homework-6.1\obj\Debug\net10.0\refint\Homework-6.1.dll
+C:\Users\monde\source\repos\Homework-6.1\Homework-6.1\obj\Debug\net10.0\Homework-6.1.pdb
+C:\Users\monde\source\repos\Homework-6.1\Homework-6.1\obj\Debug\net10.0\Homework-6.1.genruntimeconfig.cache
+C:\Users\monde\source\repos\Homework-6.1\Homework-6.1\obj\Debug\net10.0\ref\Homework-6.1.dll
+C:\Users\monde\source\repos\Homework-6.1\Homework-6.1\obj\Debug\net10.0\Homework.592199D8.Up2Date
